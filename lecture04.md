@@ -8,7 +8,7 @@
 
 ![create_ec2](images/lecture04/2_create_ec2.png)
 
-- EC2セキュリティグループ / インババウンド＆アウトバウンドルール  
+- EC2セキュリティグループ / インバウンド＆アウトバウンドルール  
 ![ec2_sg](images/lecture04/3_ec2_sg.png)
 
 ## 3. RDSの構築

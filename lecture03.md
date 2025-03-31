@@ -15,7 +15,7 @@
 ![ap_access](images/lecture03/4_accessibility_when_application_server_is_stopped.png)  
 ![ap_access2](images/lecture03/5_accessibility_when_application_server_is_stopped_2.png)
 
-## DBサーバーについて調べる
+## 2. DBサーバーについて調べる
 
 - 名前：MySQL / バージョン：8.4.4  
 ![DB_name_ver](images/lecture03/6_database_server_name_and_version.png)
